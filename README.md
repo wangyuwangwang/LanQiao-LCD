@@ -1,0 +1,2 @@
+# LanQiao-LCD
+LanqiaoCup
